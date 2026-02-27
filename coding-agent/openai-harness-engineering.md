@@ -1,8 +1,8 @@
 # OpenAI "Harness Engineering" まとめ
 
-> 出典: [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
-
----
+- URL: https://openai.com/index/harness-engineering/
+- 著者: Ryan Lopopolo（OpenAI technical staff）
+- 公開日: 2026-02-11
 
 ## 概要
 
